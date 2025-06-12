@@ -1,4 +1,4 @@
-# Fitness App - Cypsolabs
+# Fitness App 
 
 A modern fitness application built with React Native and Expo, designed to help users book classes, track their progress, and manage their fitness journey.
 
@@ -70,7 +70,6 @@ A modern fitness application built with React Native and Expo, designed to help 
 1. Clone the repository:
    ```bash
    git clone 
-   cd cypsolabs
    ```
 
 2. Install dependencies:
