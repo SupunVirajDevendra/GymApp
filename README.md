@@ -1,4 +1,4 @@
-# Fitness App 
+# Fitness App For Gym 
 
 A modern fitness application built with React Native and Expo, designed to help users book classes, track their progress, and manage their fitness journey.
 
