@@ -134,4 +134,4 @@ This project is licensed under the MIT License.
 ## Contact
 
 Supun Devendra - supundevendra1207@gmail.com
-Project Link: 
+Project Link: https://github.com/SupunVirajDevendra/GymApp.git
